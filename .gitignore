@@ -1,0 +1,5 @@
+logs/*
+!.gitkeep
+config.ini
+status.log
+*.jpg
